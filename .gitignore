@@ -1,0 +1,13 @@
+# Secrets and credentials
+.env
+.env.*
+credentials.json
+token.json
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db

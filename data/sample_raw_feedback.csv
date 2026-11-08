@@ -1,0 +1,51 @@
+﻿Feedback_ID,Feedback_Date,Feedback_Text,Feedback_Source,Experience_Area,Product_Name,Product_Category,Customer_Segment
+FB001,06-10-2026,I searched for wireless earbuds under 3000 and got results that were way over my budget. Had to keep changing filters.,Mobile App,Product Search and Discovery,,,New Customer
+FB002,07-10-2026,The search suggestions are actually useful. I typed 'running shoes' and it showed the right brands straight away.,Website,Product Search and Discovery,,,Returning Customer
+FB003,08-10-2026,Why does the search reset every time I open a product and go back? I lose the filters and have to start again.,Mobile App,Product Search and Discovery,,,Returning Customer
+FB004,09-10-2026,I searched for a 1 ton inverter AC but most results were for non-inverter models. Search needs to understand the full product requirement.,Website,Product Search and Discovery,,,Frequent Customer
+FB005,10-10-2026,Could you add a compare option right from the search results? Opening five tabs to compare laptops is annoying.,Website,Product Search and Discovery,,,Frequent Customer
+FB006,11-10-2026,The category filters are confusing. I selected 'home appliances' and the list included phone accessories somehow.,Mobile App,Product Search and Discovery,,,New Customer
+FB007,12-10-2026,Found what I needed quickly today. The brand and price filters worked perfectly.,Website,Product Search and Discovery,,,Returning Customer
+FB008,13-10-2026,Search says no results for a product that I can find by browsing the category. Is the search not indexing everything?,Mobile App,Product Search and Discovery,,,Occasional Customer
+FB009,06-10-2026,The Nova X5 page says 128 GB in one place and 256 GB in the specifications. Which storage version am I actually buying?,Website,Product Information and Reviews,Nova X5 Smartphone,Electronics,New Customer
+FB010,07-10-2026,I ordered the StrideFlex running shoes in my usual size and they feel too tight. The product page really needs a proper size chart.,Mobile App,Product Information and Reviews,StrideFlex Running Shoes,Fashion,Returning Customer
+FB011,08-10-2026,The HomePro mixer grinder works really well for chutneys and smoothies. The jars are sturdy and the motor feels powerful. Happy with this purchase.,Website,Product Information and Reviews,HomePro Mixer Grinder,Home & Kitchen,Returning Customer
+FB012,09-10-2026,Some Nova X5 reviews seem to be for a different phone model. Ratings are mixed together and it's hard to trust them.,Website,Product Information and Reviews,Nova X5 Smartphone,Electronics,Frequent Customer
+FB013,10-10-2026,"For the HomePro mixer grinder, please show verified-purchase badges and let us sort reviews by most recent. That would make comparisons easier.",Mobile App,Product Information and Reviews,HomePro Mixer Grinder,Home & Kitchen,Frequent Customer
+FB014,11-10-2026,The TechBook Air laptop warranty details are buried at the bottom. I almost placed the order without noticing it only had a 6 month warranty.,Website,Product Information and Reviews,TechBook Air Laptop,Electronics,New Customer
+FB015,12-10-2026,GlowCare Daily Moisturizer is lightweight and absorbs quickly without feeling sticky. Would love to see a larger pack size.,Website,Product Information and Reviews,GlowCare Daily Moisturizer,Beauty & Personal Care,Occasional Customer
+FB016,06-10-2026,Payment failed twice but my bank sent two debit messages. I don't know if the order went through and support hasn't replied.,Mobile App,Checkout and Payments,,,Returning Customer
+FB017,07-10-2026,Checkout keeps asking me to enter my address again even though it's saved in my account. Very frustrating.,Mobile App,Checkout and Payments,,,Returning Customer
+FB018,08-10-2026,UPI payment was quick and the order confirmation came immediately. Smooth experience.,Mobile App,Checkout and Payments,,,Frequent Customer
+FB019,09-10-2026,The delivery fee appeared only on the last screen. Please show the full amount before I start checkout.,Website,Checkout and Payments,,,New Customer
+FB020,10-10-2026,My card gets declined here but works on other sites. Tried three times. Please check the payment gateway.,Website,Checkout and Payments,,,Frequent Customer
+FB021,11-10-2026,I wish there was a one-click reorder for things I buy every month. Checkout has too many steps for repeat orders.,Mobile App,Checkout and Payments,,,Returning Customer
+FB022,12-10-2026,Promo code says applied but the total doesn't change. This happened with two different codes.,Website,Checkout and Payments,,,Occasional Customer
+FB023,13-10-2026,Guest checkout would be nice. I don't want to create an account just to buy one item.,Website,Checkout and Payments,,,New Customer
+FB024,06-10-2026,"The app said out for delivery all day, then at night it changed to delayed. No explanation or updated date.",Mobile App,Delivery and Tracking,,,Returning Customer
+FB025,07-10-2026,Package arrived two days earlier than expected and was packed well. Great job.,Website,Delivery and Tracking,,,Frequent Customer
+FB026,08-10-2026,Tracking hasn't moved from 'shipped' for four days. Is the parcel lost?,Mobile App,Delivery and Tracking,,,New Customer
+FB027,09-10-2026,Delivery person marked it delivered but nobody came to my door. I had to call support and wait for them to investigate.,Chat Support,Delivery and Tracking,,,Returning Customer
+FB028,10-10-2026,Can we choose a delivery time slot? I miss deliveries because I'm at work during the day.,Mobile App,Delivery and Tracking,,,Frequent Customer
+FB029,11-10-2026,The package was left outside the apartment gate in the rain. The box was wet when I found it.,Email,Delivery and Tracking,,,Occasional Customer
+FB030,12-10-2026,Delivery estimate kept changing from Monday to Wednesday to Friday. Please give a date customers can rely on.,Website,Delivery and Tracking,,,Returning Customer
+FB031,13-10-2026,I like that the tracking map shows where the driver is. It helped me plan when to be home.,Mobile App,Delivery and Tracking,,,Frequent Customer
+FB032,14-10-2026,Ordered two items together but they came in separate deliveries without telling me. I was worried one item was missing.,Website,Delivery and Tracking,,,New Customer
+FB033,06-10-2026,Return pickup was scheduled for yesterday and nobody showed up. Now the app says I need to reschedule.,Mobile App,Returns and Refunds,,,Returning Customer
+FB034,07-10-2026,Refund still hasn't reached my account after 10 days. The status has not changed either.,Website,Returns and Refunds,,,Frequent Customer
+FB035,08-10-2026,The return process was easy and the refund came the next day. Much better than I expected.,Mobile App,Returns and Refunds,,,Returning Customer
+FB036,09-10-2026,Why do I have to print a return label? I don't have a printer. A QR code for pickup would be easier.,Website,Returns and Refunds,,,Occasional Customer
+FB037,10-10-2026,The item was damaged on arrival but the return request was rejected saying it was outside the return window. I reported it the same day!,Chat Support,Returns and Refunds,,,Returning Customer
+FB038,11-10-2026,I returned only one item from a multi-item order but the app shows the whole order as returned. Please make item-level return status clearer.,Mobile App,Returns and Refunds,,,Frequent Customer
+FB039,12-10-2026,I can't find the reason for my refund amount being lower than what I paid. The deductions aren't explained.,Email,Returns and Refunds,,,New Customer
+FB040,13-10-2026,Please let customers exchange a size directly instead of returning it and placing a new order.,Website,Returns and Refunds,,,Frequent Customer
+FB041,07-10-2026,The chatbot kept giving me the same article and there was no obvious way to speak to a person. Waste of time.,Mobile App,Customer Support,,,New Customer
+FB042,08-10-2026,The support agent understood the issue and sorted out my missing item in one chat. Thank you.,Chat Support,Customer Support,,,Returning Customer
+FB043,09-10-2026,I had to explain the same problem to three different agents. Can't they see the previous conversation?,Chat Support,Customer Support,,,Frequent Customer
+FB044,10-10-2026,Waited nearly 25 minutes on the phone and then the call dropped. Please offer a callback option.,Phone Support,Customer Support,,,Occasional Customer
+FB045,11-10-2026,Support promised an update by email but I never received one. I had to contact them again.,Email,Customer Support,,,Returning Customer
+FB046,08-10-2026,Since the latest update the app freezes when I tap my cart. I have to close and reopen it.,Mobile App,Mobile App Usability,,,Frequent Customer
+FB047,10-10-2026,Text is tiny on the order details screen. Please add a way to increase font size.,Mobile App,Mobile App Usability,,,Occasional Customer
+FB048,12-10-2026,App is easy to use and loads much faster now. Shopping feels smoother.,Mobile App,Mobile App Usability,,,Returning Customer
+FB049,09-10-2026,The same product showed one price on the listing and a higher price after I opened it. Which price is correct?,Website,Pricing and Offers,,,New Customer
+FB050,13-10-2026,Please make offer conditions clearer. It said 20% off but at checkout I found out it only applied if I bought three items.,Mobile App,Pricing and Offers,,,Returning Customer
