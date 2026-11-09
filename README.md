@@ -1,6 +1,5 @@
 # VoiceIQ – AI-Powered Customer Feedback Intelligence
 
-**An AI Product Management Portfolio Project**
 
 VoiceIQ is an AI-powered Voice of Customer (VoC) solution designed to help e-commerce product teams transform unstructured customer feedback into actionable product insights.
 
